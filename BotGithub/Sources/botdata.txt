@@ -1,8 +1,8 @@
-password: 
-token: 
-adminid: 
-prefix:
-cardgame:
-botname: 
+password: 123123123
+token: OTI1MDEyNTYxNjgwODE4MTc2.Ycm7FA.SkBOby1dqZ7xbt4WaRI80Z_NYAQ
+adminid: 921698844998246431
+prefix: !
+cardgame: T
+botname: Gyu
 extension: 
 updates: 
